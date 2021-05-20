@@ -10,12 +10,12 @@ package.json com configurações e dependências do projeto
 * Para executar o projeto basta digitar o comando "node src/index.js"
 
 * Outra opção para iniciar o projeto é instalar outra depência que é o nodemon com
-o comando "yarn add nodemon -D", para assim que houver alguma alteração no pro-
-jeto ele já desce e sobe o localhost automaticamente com as alterações
+o comando "yarn add nodemon -D", para assim que houver alguma alteração no pro
+jeto ele já desce e sobe o localhost automaticamente com as alterações. Depois de ter
+instalado essa última depedência basta executar com o seguinte comando: "yarn dev".
 
 
-# Nesse projeto é efetuado um sistema de cadastro de conta bancária
-# nele é implementado as seguintes funcionalidades e regras:
+# Nesse projeto é efetuado um sistema de cadastro de conta bancária nele é implementado as seguintes funcionalidades e regras:
 - Cadastro de conta
 - Validação de CPF existente
 - Listar extrato
@@ -27,4 +27,4 @@ jeto ele já desce e sobe o localhost automaticamente com as alterações
 - Atualizar informações da conta
 - Deletar conta 
 
-# Para fazer os testes do projeto com os metódos POST, PUT, PATCH E DELETE. Foi utilizado o Insomnia.
+# Para fazer os testes do projeto com os metódos POST, PUT, PATCH E DELETE. Foi utilizado e é recomendado usar o Insomnia.
